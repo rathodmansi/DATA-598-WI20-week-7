@@ -2,6 +2,7 @@
 # mysimplecompendium22
 
 <!-- badges: start -->
+[![R build status](https://github.com/rathodmansi/mysimplecompendium22/workflows/R-CMD-check/badge.svg)](https://github.com/rathodmansi/mysimplecompendium22/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompendium22 is to ...
