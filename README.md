@@ -21,6 +21,8 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(mysimplecompendium22)
 ## basic example code
+add_two_numbers(2,5)
+multiply_two_numbers(2,6)
 ```
 
 ## Code of Conduct
