@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/rathodmansi/mysimplecompendium22/workflows/R-CMD-check/badge.svg)](https://github.com/rathodmansi/mysimplecompendium22/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rathodmansi/mysimplecompendium22/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompendium22 is to ...
